@@ -2,6 +2,8 @@ import Header from "../components/Header"
 import Horta from "../assets/Home/horta.png"
 
 export default function Home(){
+
+
     return(
         <section className='bg-gradient-to-t from-bg-blue to-slate-900'>
             <Header />
